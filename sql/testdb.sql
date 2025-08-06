@@ -13,7 +13,7 @@ insert into users values(3,"hanako","789");
 
 create table inquiry(
 name varchar(255),
-qtype varchar(255),
-body varchar(255)
+qtyprchar(255),
+body vare vachar(255)
 );
 

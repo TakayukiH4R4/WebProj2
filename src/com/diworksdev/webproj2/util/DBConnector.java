@@ -20,7 +20,7 @@ private static String user = "root";
 	/**
 	 * データベース接続パスワード
 	 */
-private static String password = "mysql";
+private static String password = "";
 
 public Connection getConnection() {
 	Connection con = null;
