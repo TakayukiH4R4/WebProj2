@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>HelloStrutsError</title>
+<title>helloStrutsError</title>
 </head>
 <body>
 <h1>エラーが発生しました</h1>
@@ -12,4 +12,4 @@
 <h3>MySQLと接続できません。</h3>
 
 </body>
-</html>
+</html></html>

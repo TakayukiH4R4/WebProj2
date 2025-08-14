@@ -10,9 +10,9 @@ import com.diworksdev.webproj2.util.DBConnector;
 public class HelloStrutsDAO {
 
 	public boolean select() {
-		boolean ret= false;
+		boolean ret=false;
 		DBConnector db =new DBConnector();
-		Connection con = db.getConnection();
+		Connection con =db.getConnection();
 		String sql = "select * from users";
 
 		try {
@@ -30,5 +30,5 @@ public class HelloStrutsDAO {
 		e.printStackTrace();
 	}
 	return ret;
-}
+	}
 }
